@@ -1,0 +1,44 @@
+[
+    {
+        "episode": "3I33IC7ZWO0NVOKGK1L43MTEXSA2A5",
+        "timestep": 0,
+        "action": "The next action is ascend 2 units.",
+        "next_timestep": 1
+    },
+    {
+        "episode": "3I33IC7ZWO0NVOKGK1L43MTEXSA2A5",
+        "timestep": 1,
+        "action": "The next action is turn right 45 degrees.",
+        "next_timestep": 4
+    },
+    {
+        "episode": "3I33IC7ZWO0NVOKGK1L43MTEXSA2A5",
+        "timestep": 4,
+        "action": "The next action is turn right 45 degrees.",
+        "next_timestep": 7
+    },
+    {
+        "episode": "3I33IC7ZWO0NVOKGK1L43MTEXSA2A5",
+        "timestep": 7,
+        "action": "The next action is move forward 10 units.",
+        "next_timestep": 9
+    },
+    {
+        "episode": "3I33IC7ZWO0NVOKGK1L43MTEXSA2A5",
+        "timestep": 9,
+        "action": "The next action is descend 6 units.",
+        "next_timestep": 12
+    },
+    {
+        "episode": "3I33IC7ZWO0NVOKGK1L43MTEXSA2A5",
+        "timestep": 12,
+        "action": "The next action is descend 6 units.",
+        "next_timestep": 15
+    },
+    {
+        "episode": "3I33IC7ZWO0NVOKGK1L43MTEXSA2A5",
+        "timestep": 15,
+        "action": "The next action is descend 6 units.",
+        "next_timestep": 18
+    }
+]

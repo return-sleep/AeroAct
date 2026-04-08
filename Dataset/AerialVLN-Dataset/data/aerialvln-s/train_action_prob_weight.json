@@ -1,0 +1,156 @@
+{
+    "The next action is move forward 15 units.": {
+        "prob": 0.18939727794159433,
+        "weight": 2.2978048063857424,
+        "norm_weight": 0.015920984053842006,
+        "group": "forward",
+        "group_weight": 0.546053916345684
+    },
+    "The next action is move forward 5 units.": {
+        "prob": 0.15075452981622106,
+        "weight": 2.5755193359504527,
+        "norm_weight": 0.020001992945917785,
+        "group": "forward",
+        "group_weight": 0.546053916345684
+    },
+    "The next action is move forward 10 units.": {
+        "prob": 0.07906526440446678,
+        "weight": 3.5563716224154094,
+        "norm_weight": 0.038137999849385845,
+        "group": "forward",
+        "group_weight": 0.546053916345684
+    },
+    "The next action is turn right 45 degrees.": {
+        "prob": 0.06880862728149773,
+        "weight": 3.812225245877999,
+        "norm_weight": 0.04382286293277106,
+        "group": "turn_right",
+        "group_weight": 0.9480468207774028
+    },
+    "The next action is turn left 45 degrees.": {
+        "prob": 0.06409887752098374,
+        "weight": 3.9497971109880794,
+        "norm_weight": 0.04704280571780796,
+        "group": "turn_left",
+        "group_weight": 0.9563610411736115
+    },
+    "The next action is descend 2 units.": {
+        "prob": 0.05966817362778344,
+        "weight": 4.093818908597808,
+        "norm_weight": 0.05053600367860333,
+        "group": "descend",
+        "group_weight": 1.0483617481913567
+    },
+    "The next action is ascend 2 units.": {
+        "prob": 0.05580236746597427,
+        "weight": 4.233247764112613,
+        "norm_weight": 0.05403697331995552,
+        "group": "ascend",
+        "group_weight": 1.0500203318043635
+    },
+    "The next action is turn left 15 degrees.": {
+        "prob": 0.050805064342191904,
+        "weight": 4.43656140823038,
+        "norm_weight": 0.05935217445330592,
+        "group": "turn_left",
+        "group_weight": 0.9563610411736115
+    },
+    "The next action is turn right 15 degrees.": {
+        "prob": 0.04903550518361729,
+        "weight": 4.515903708833933,
+        "norm_weight": 0.0614940343870801,
+        "group": "turn_right",
+        "group_weight": 0.9480468207774028
+    },
+    "The next action is ascend 6 units.": {
+        "prob": 0.045035280585724084,
+        "weight": 4.712198357382594,
+        "norm_weight": 0.06695619529247626,
+        "group": "ascend",
+        "group_weight": 1.0500203318043635
+    },
+    "The next action is descend 6 units.": {
+        "prob": 0.038875853514531655,
+        "weight": 5.0717756173656126,
+        "norm_weight": 0.07756462609424289,
+        "group": "descend",
+        "group_weight": 1.0483617481913567
+    },
+    "The next action is move left 5 units.": {
+        "prob": 0.029350861043665574,
+        "weight": 5.836998434490106,
+        "norm_weight": 0.1027360334493485,
+        "group": "move_left",
+        "group_weight": 2.0171601815438684
+    },
+    "The next action is move right 5 units.": {
+        "prob": 0.028988441715995964,
+        "weight": 5.873372761939962,
+        "norm_weight": 0.10402045999890012,
+        "group": "move_right",
+        "group_weight": 2.035506615229749
+    },
+    "The next action is turn left 30 degrees.": {
+        "prob": 0.021763876151276892,
+        "weight": 6.778473102347755,
+        "norm_weight": 0.13855027574085385,
+        "group": "turn_left",
+        "group_weight": 0.9563610411736115
+    },
+    "The next action is turn right 30 degrees.": {
+        "prob": 0.021231306904513567,
+        "weight": 6.862962658408384,
+        "norm_weight": 0.14202569137692433,
+        "group": "turn_right",
+        "group_weight": 0.9480468207774028
+    },
+    "The next action is stop.": {
+        "prob": 0.017042215896426342,
+        "weight": 7.660144613145935,
+        "norm_weight": 0.1769365592053975,
+        "group": "stop",
+        "group_weight": 2.7082701004332925
+    },
+    "The next action is descend 4 units.": {
+        "prob": 0.015189283277495802,
+        "weight": 8.113931914661855,
+        "norm_weight": 0.19852095631245228,
+        "group": "descend",
+        "group_weight": 1.0483617481913567
+    },
+    "The next action is ascend 4 units.": {
+        "prob": 0.012536646038824808,
+        "weight": 8.931189781965506,
+        "norm_weight": 0.24052613694371083,
+        "group": "ascend",
+        "group_weight": 1.0500203318043635
+    },
+    "The next action is move left 10 units.": {
+        "prob": 0.0008269286067954474,
+        "weight": 34.77490817527807,
+        "norm_weight": 3.6464950144058883,
+        "group": "move_left",
+        "group_weight": 2.0171601815438684
+    },
+    "The next action is move right 10 units.": {
+        "prob": 0.0007622716375398364,
+        "weight": 36.21972257591708,
+        "norm_weight": 3.9557959308063873,
+        "group": "move_right",
+        "group_weight": 2.035506615229749
+    },
+    "The next action is move left 15 units.": {
+        "prob": 0.0005427782419089459,
+        "weight": 42.922873163316915,
+        "norm_weight": 5.55547516301336,
+        "group": "move_left",
+        "group_weight": 2.0171601815438684
+    },
+    "The next action is move right 15 units.": {
+        "prob": 0.00041856880097053514,
+        "weight": 48.87835406088681,
+        "norm_weight": 7.204051126021389,
+        "group": "move_right",
+        "group_weight": 2.035506615229749
+    }
+}

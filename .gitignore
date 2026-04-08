@@ -36,7 +36,6 @@ results/
 logs/
 
 # Data and checkpoints (keep placeholders with .gitkeep if needed)
-Dataset/
 checkpoints/
 
 # OS files

@@ -1,0 +1,46 @@
+{
+    "3018Q3ZVORO4Z811ZR054U1M3ODARH": [
+        {
+            "seg_id": 1,
+            "keyimstep": [
+                0,
+                2,
+                5,
+                8,
+                11,
+                13,
+                16,
+                18,
+                19,
+                22,
+                24,
+                25,
+                27
+            ],
+            "sub_instruction": "take off to first floor height and turn right by 180 degrees then proceed. stop at bridge."
+        },
+        {
+            "seg_id": 2,
+            "keyimstep": [
+                27,
+                30,
+                33,
+                34,
+                37,
+                40,
+                43,
+                44,
+                47,
+                50,
+                53,
+                54,
+                55,
+                58,
+                59,
+                60
+            ],
+            "sub_instruction": "turn right by 90 degrees then ascend to roof height. turn right by 180 degrees and proceed towards yellow building. proceed towards satellites on roof."
+        }
+    ]
+   
+}
