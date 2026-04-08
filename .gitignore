@@ -1,0 +1,44 @@
+# Python cache and artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs and runtime outputs
+*.log
+nohup.out
+
+# Project outputs
+AirVLN_eval/
+AirVLN_eval_full/
+outputs/
+results/
+logs/
+
+# Data and checkpoints (keep placeholders with .gitkeep if needed)
+Dataset/
+checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
